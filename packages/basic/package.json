@@ -1,6 +1,6 @@
 {
   "name": "@debbl/basic",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,6 @@
     "eslint": "^8.24.0"
   },
   "dependencies": {
-    "@debbl/basic": "workspace:^1.0.0"
+    "@debbl/basic": "workspace:^2.0.0"
   }
 }
